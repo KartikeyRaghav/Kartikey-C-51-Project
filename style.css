@@ -47,6 +47,11 @@ p{
     font-family: cursive;
 }
 
+.aboutmee{
+    font-size: 2rem;
+    color: gold;
+}
+
 .flex-container{
     display: flex;
     flex-direction: row;
